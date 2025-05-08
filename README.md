@@ -39,3 +39,4 @@ It was a great exercise in transforming raw financial data into a story with dyn
 Data is sourced from Kaggle. 
 
 See how my Dashboard looks like: (https://github.com/Saharejazkhan/Deutsche-Bank-Financial-Performance/blob/main/Deutsche%20Bank%20Dashboard.png)
+Deutsche Bank Dashboard.png
